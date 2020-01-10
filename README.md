@@ -30,7 +30,7 @@ t {
  color:yellow;
 }
 h1 {
-  color:"#D94DFF";
+  color:#D94DFF;
 }
 </style>
 <style>
