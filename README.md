@@ -55,21 +55,21 @@ h1 {
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color=red size="6">interests</font></b></h1>
+<h1><b><font face="Arial" color="red" size="6">interests</font></b></h1>
 <p>壘球 籃球</p>
 <p>刺客教條 英雄聯盟</p>
 <p>看書 睡覺</p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color=red size="6">books</font></b></h1>
+<h1><b><font face="Arial" color="red" size="6">books</font></b></h1>
 <p>1.福爾摩斯</p>
 <p>2.1984</p>
 <p>3.分歧者</p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color=red size="6">connections</font></b></h1>
+<h1><b><font face="Arial" color="red" size="6">connections</font></b></h1>
 <p>email：<a href="vmsu11051105@gmail.com">vmsu11051105@gmail.com</a></p>
 <p>facebook：<a href="https://www.facebook.com/profile.php?id=100008588917658">許乃懿</a></p>
 
