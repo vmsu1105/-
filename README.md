@@ -48,7 +48,7 @@ h1 {
 <t><font face="標楷體" size="7">許乃懿</font></t>
 
 <h1><b><font face="Arial" color="red" size="6">about me</font></b></h1>
-<img src="me.jpg" alt="Avatar" style="width:200px">
+<img src="ME.jpg" alt="Avatar" style="width:200px">
 <p>清華大學  資訊工程學系</p>
 <p>斗六高中</p>
 <p>斗六國中</p>
