@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -26,6 +25,12 @@ body {
   text-align: center;
   color: #B3EE3A;
   font-family: Arial, Helvetica, sans-serif;
+}
+t {
+  face:標楷體;
+  color:yellow;
+  size:7;
+}
 </style>
 <style>
  <!--
