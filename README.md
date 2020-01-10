@@ -23,14 +23,14 @@
 body {
   background-color: black;
   text-align: left;
-  color: #B3EE3A;
+  color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 t {
  color:yellow;
 }
 h1 {
-  color:#D94DFF;
+  color:yellow;
 }
 </style>
 <style>
