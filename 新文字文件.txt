@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<script>
+    function startTime(){
+      var today = new Date();
+      var hh = today.getHours();
+      var mm = today.getMinutes();
+      var ss = today.getSeconds();
+      ss = checkTime(ss);
+      document.getElementById('clock').innerHTML = today + hh + ":" + mm + ":" + ss;
+      var timeoutId = setTimeout(startTime, 500);
+    }
+    function checkTime(i){
+      if(i < 10) {
+        i = "0" + i;
+      }
+      return i;
+    }  
+</script>
+<style>
+body {
+  background-color: black;
+  text-align: center;
+  color: #B3EE3A;
+  font-family: Arial, Helvetica, sans-serif;
+</style>
+<style>
+ <!--
+	A:link {color: yellow; font-family: �з���}
+	A:visited {color: gray; font-family: �з���}
+	A:active {text-decoration: none; font-family: �з���}
+	A:hover {text-decoration: none; color: red}
+ -->
+</style>
+</head>
+  
+<body onload="startTime()">
+
+<t><font face=�з��� color=yellow size="7">�\�D�t</font></t>
+
+<h1><b><font face="Arial" color=red size="6">about me</font></b></h1>
+<img src="avatar.png" alt="Avatar" style="width:200px">
+<p>�M�ؤj��  ��T�u�{�Ǩt</p>
+<p>�椻����</p>
+<p>�椻�ꤤ</p>
+
+<hr size="5" align="center" noshade width="90%" color="0000ff">
+
+<h1><b><font face="Arial" color=red size="6">interests</font></b></h1>
+<p>�S�y �x�y</p>
+<p>��ȱб� �^���p��</p>
+<p>�ݮ� ��ı</p>
+
+<hr size="5" align="center" noshade width="90%" color="0000ff">
+
+<h1><b><font face="Arial" color=red size="6">books</font></b></h1>
+<p>1.�ֺ�����</p>
+<p>2.1984</p>
+<p>3.���[��</p>
+
+<hr size="5" align="center" noshade width="90%" color="0000ff">
+
+<h1><b><font face="Arial" color=red size="6">connections</font></b></h1>
+<p>email�G<a href="vmsu11051105@gmail.com">vmsu11051105@gmail.com</a></p>
+<p>facebook�G<a href="https://www.facebook.com/profile.php?id=100008588917658">�\�D�t</a></p>
+
+<hr size="5" align="center" noshade width="90%" color="0000ff">
+
+<h1><b><font face="Arial" color="#00FFFF" size="6"><marquee behavior=scroll>�j�Ǥ��� ���״N�n</marquee></font></b></h1>
+
+<p>�{�b�ɶ�</p>
+<div id="clock"></div>
+
+</body>
+</html>
