@@ -21,7 +21,6 @@
 </script>
 <style>
 body {
-  background-color: black;
   text-align: left;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
@@ -40,6 +39,11 @@ h1 {
 	A:active {text-decoration: none; font-family: 標楷體}
 	A:hover {text-decoration: none; color: red}
  -->
+</style>
+<style>
+div {
+  background-image: url('img_girl.jpg');
+}
 </style>
 </head>
   
