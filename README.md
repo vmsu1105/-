@@ -75,7 +75,7 @@ h1 {
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color="#00FFFF" size="6"><marquee behavior=scroll>大學不難 重修就好</marquee></font></b></h1>
+<h1><b><font face="Arial" color="#00FFFF" size="6"><marquee behavior="scroll">大學不難 重修就好</marquee></font></b></h1>
 
 <p>現在時間</p>
 <div id="clock"></div>
