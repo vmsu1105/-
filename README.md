@@ -22,7 +22,7 @@
 <style>
 body {
   background-color: black;
-  text-align: center;
+  text-align: left;
   color: #B3EE3A;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -44,7 +44,7 @@ t {
 
 <t><font face="標楷體" size="7">許乃懿</font></t>
 
-<h1><b><font face="Arial" color="red" size="6">ABOUT ME</font></b></h1>
+<h1><b><font face="Arial" color="#002FA7" size="6">ABOUT ME</font></b></h1>
 <img src="ME.jpg" style="width:200px">
 <p>清華大學  資訊工程學系</p>
 <p>斗六高中</p>
@@ -52,21 +52,21 @@ t {
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color="red" size="6">INTERESTS</font></b></h1>
+<h1><b><font face="Arial" color="#002FA7" size="6">INTERESTS</font></b></h1>
 <p>壘球 籃球</p>
 <p>刺客教條 英雄聯盟</p>
 <p>看書 睡覺</p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color="red" size="6">BOOKS</font></b></h1>
+<h1><b><font face="Arial" color="#002FA7" size="6">BOOKS</font></b></h1>
 <p>1.福爾摩斯</p>
 <p>2.1984</p>
 <p>3.分歧者</p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color="red" size="6">CONNECTIONS</font></b></h1>
+<h1><b><font face="Arial" color="#002FA7" size="6">CONNECTIONS</font></b></h1>
 <p>email：<a href="vmsu11051105@gmail.com">vmsu11051105@gmail.com</a></p>
 <p>facebook：<a href="https://www.facebook.com/profile.php?id=100008588917658">許乃懿</a></p>
 
