@@ -39,7 +39,7 @@ body {
   
 <body onload="startTime()">
 
-<t><font face=標楷體 size=7>許乃懿</font></t>
+<t><font face="標楷體" size="7">許乃懿</font></t>
 
 <h1><b><font face="Arial" color=red size="6">about me</font></b></h1>
 <img src="avatar.png" alt="Avatar" style="width:200px">
