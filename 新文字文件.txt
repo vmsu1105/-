@@ -8,6 +8,7 @@
       var hh = today.getHours();
       var mm = today.getMinutes();
       var ss = today.getSeconds();
+      mm = checkTime(mm);
       ss = checkTime(ss);
       document.getElementById('clock').innerHTML = today + hh + ":" + mm + ":" + ss;
       var timeoutId = setTimeout(startTime, 500);
@@ -28,9 +29,9 @@ body {
 </style>
 <style>
  <!--
-	A:link {color: yellow; font-family: ï¿½Ð·ï¿½ï¿½ï¿½}
-	A:visited {color: gray; font-family: ï¿½Ð·ï¿½ï¿½ï¿½}
-	A:active {text-decoration: none; font-family: ï¿½Ð·ï¿½ï¿½ï¿½}
+	A:link {color: yellow; font-family: ¼Ð·¢Åé}
+	A:visited {color: gray; font-family: ¼Ð·¢Åé}
+	A:active {text-decoration: none; font-family: ¼Ð·¢Åé}
 	A:hover {text-decoration: none; color: red}
  -->
 </style>
@@ -38,39 +39,39 @@ body {
   
 <body onload="startTime()">
 
-<t><font face=ï¿½Ð·ï¿½ï¿½ï¿½ color=yellow size="7">ï¿½\ï¿½Dï¿½t</font></t>
+<t><font face=¼Ð·¢Åé color=yellow size="7">³\¤DÅt</font></t>
 
 <h1><b><font face="Arial" color=red size="6">about me</font></b></h1>
 <img src="avatar.png" alt="Avatar" style="width:200px">
-<p>ï¿½Mï¿½Ø¤jï¿½ï¿½  ï¿½ï¿½Tï¿½uï¿½{ï¿½Ç¨t</p>
-<p>ï¿½æ¤»ï¿½ï¿½ï¿½ï¿½</p>
-<p>ï¿½æ¤»ï¿½ê¤¤</p>
+<p>²MµØ¤j¾Ç  ¸ê°T¤uµ{¾Ç¨t</p>
+<p>¤æ¤»°ª¤¤</p>
+<p>¤æ¤»°ê¤¤</p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
 <h1><b><font face="Arial" color=red size="6">interests</font></b></h1>
-<p>ï¿½Sï¿½y ï¿½xï¿½y</p>
-<p>ï¿½ï¿½È±Ð±ï¿½ ï¿½^ï¿½ï¿½ï¿½pï¿½ï¿½</p>
-<p>ï¿½Ý®ï¿½ ï¿½ï¿½Ä±</p>
+<p>ÂS²y Äx²y</p>
+<p>¨ë«È±Ð±ø ­^¶¯Áp·ù</p>
+<p>¬Ý®Ñ ºÎÄ±</p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
 <h1><b><font face="Arial" color=red size="6">books</font></b></h1>
-<p>1.ï¿½Öºï¿½ï¿½ï¿½ï¿½ï¿½</p>
+<p>1.ºÖº¸¼¯´µ</p>
 <p>2.1984</p>
-<p>3.ï¿½ï¿½ï¿½[ï¿½ï¿½</p>
+<p>3.¤Àª[ªÌ</p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
 <h1><b><font face="Arial" color=red size="6">connections</font></b></h1>
-<p>emailï¿½G<a href="vmsu11051105@gmail.com">vmsu11051105@gmail.com</a></p>
-<p>facebookï¿½G<a href="https://www.facebook.com/profile.php?id=100008588917658">ï¿½\ï¿½Dï¿½t</a></p>
+<p>email¡G<a href="vmsu11051105@gmail.com">vmsu11051105@gmail.com</a></p>
+<p>facebook¡G<a href="https://www.facebook.com/profile.php?id=100008588917658">³\¤DÅt</a></p>
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 
-<h1><b><font face="Arial" color="#00FFFF" size="6"><marquee behavior=scroll>ï¿½jï¿½Ç¤ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½×´Nï¿½n</marquee></font></b></h1>
+<h1><b><font face="Arial" color="#00FFFF" size="6"><marquee behavior=scroll>¤j¾Ç¤£Ãø ­«­×´N¦n</marquee></font></b></h1>
 
-<p>ï¿½{ï¿½bï¿½É¶ï¿½</p>
+<p>²{¦b®É¶¡</p>
 <div id="clock"></div>
 
 </body>
