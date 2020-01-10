@@ -27,7 +27,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 t {
- color:#FF2400;
+  color:#FF2400;
 }
 h1 {
   color:yellow;
