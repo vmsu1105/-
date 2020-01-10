@@ -26,6 +26,12 @@ body {
   color: #B3EE3A;
   font-family: Arial, Helvetica, sans-serif;
 }
+t {
+ color:yellow;
+}
+h1 {
+  color:red;
+}
 </style>
 <style>
  <!--
@@ -41,7 +47,7 @@ body {
 
 <t><font face="標楷體" size="7">許乃懿</font></t>
 
-<h1><b><font face="Arial" color=red size="6">about me</font></b></h1>
+<h1><b><font face="Arial" color="red" size="6">about me</font></b></h1>
 <img src="avatar.png" alt="Avatar" style="width:200px">
 <p>清華大學  資訊工程學系</p>
 <p>斗六高中</p>
