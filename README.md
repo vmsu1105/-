@@ -27,7 +27,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 t {
- color:yellow;
+ color:#FF2400;
 }
 h1 {
   color:yellow;
@@ -45,7 +45,7 @@ h1 {
   
 <body onload="startTime()">
 
-<t><font face="標楷體" size="7">許乃懿</font></t>
+<t><font face="標楷體" color="yellow" size="7">許乃懿</font></t>
 
 <h1><b><font face="標楷體" size="6">ABOUT ME</font></b></h1>
 <img src="ME.jpg" style="width:200px">
